@@ -1,0 +1,6 @@
+/data
+data/
+__MACOSX
+__pycache__
+nyud/
+output
